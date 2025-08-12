@@ -1,4 +1,4 @@
-# 💳 # Customer Risk & Financial Behavior Analysis — Banking (SQL, Python, Excel, Power BI
+# 💳 Customer Risk & Financial Behavior Analysis — Banking (SQL, Python, Excel, Power BI
 
 
 
