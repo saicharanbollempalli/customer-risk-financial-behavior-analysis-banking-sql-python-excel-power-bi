@@ -1,4 +1,5 @@
-# 💳 Banking Analytics Project – Risk Insights & Financial Behavior with Excel, SQL, Power BI & Python.
+# 💳 # Customer Risk & Financial Behavior Analysis — Banking (SQL, Python, Excel, Power BI
+
 
 
 ![Tools](https://img.shields.io/badge/Tools-SQL%2C%20Power%20BI%2C%20Python%2C%20Excel-blue)
